@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.java.training;
+package com.java.training2;
 
 /**
  * 
